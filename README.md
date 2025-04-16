@@ -57,7 +57,7 @@ gemini.api.key=YOUR_API_KEY
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Email-reply-writer-ai-Backend.git
+git clone https://github.com/raj121276thakre/Email-reply-writer-ai-Backend.git
 cd Email-reply-writer-ai-Backend
 ```
 
